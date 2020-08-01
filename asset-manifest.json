@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smah-folio/static/css/main.50cb59b2.chunk.css",
+    "main.js": "/smah-folio/static/js/main.8a52439a.chunk.js",
+    "main.js.map": "/smah-folio/static/js/main.8a52439a.chunk.js.map",
+    "runtime-main.js": "/smah-folio/static/js/runtime-main.d4bbf391.js",
+    "runtime-main.js.map": "/smah-folio/static/js/runtime-main.d4bbf391.js.map",
+    "static/js/2.113052ad.chunk.js": "/smah-folio/static/js/2.113052ad.chunk.js",
+    "static/js/2.113052ad.chunk.js.map": "/smah-folio/static/js/2.113052ad.chunk.js.map",
+    "index.html": "/smah-folio/index.html",
+    "precache-manifest.9d366aa60f18bb38236c0330f81bfe68.js": "/smah-folio/precache-manifest.9d366aa60f18bb38236c0330f81bfe68.js",
+    "service-worker.js": "/smah-folio/service-worker.js",
+    "static/css/main.50cb59b2.chunk.css.map": "/smah-folio/static/css/main.50cb59b2.chunk.css.map",
+    "static/js/2.113052ad.chunk.js.LICENSE.txt": "/smah-folio/static/js/2.113052ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4bbf391.js",
+    "static/js/2.113052ad.chunk.js",
+    "static/css/main.50cb59b2.chunk.css",
+    "static/js/main.8a52439a.chunk.js"
+  ]
+}
