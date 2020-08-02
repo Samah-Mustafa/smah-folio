@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41b4408620addd351431e3f2d811c24b",
+    "revision": "7c4b66670c8fef0b45d1a179710a7922",
     "url": "/smah-folio/index.html"
   },
   {
-    "revision": "2884d7f95bea78b4471b",
+    "revision": "11188bf870028c292373",
     "url": "/smah-folio/static/css/main.50cb59b2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smah-folio/static/js/2.113052ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2884d7f95bea78b4471b",
-    "url": "/smah-folio/static/js/main.8a52439a.chunk.js"
+    "revision": "11188bf870028c292373",
+    "url": "/smah-folio/static/js/main.b9906a6c.chunk.js"
   },
   {
     "revision": "37ee5d9f61612a5ae8c6",
