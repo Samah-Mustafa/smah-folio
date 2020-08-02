@@ -14,9 +14,11 @@ export const About = () => {
           One of my favourite challenges is to draft ideas that fit the brief or help bringing a creative angle if the client doesn’t entirely know what he’s after till I make sure that work is done.</p>
           <p><b>You can check my portfolios on: </b></p>
 
-          <div style = {{ display:"inline-block", width: "100%", textAlign: "center", padding: "10px 0", marginLeft: "-250px",}}>
-          <img src={image01} alt="Behance" style = {{height: "60px"}} onClick={event =>  window.location.href='https://www.behance.net/samahmustafa'}/>
-          <img src={image02} alt="LinkedIn" style = {{height: "60px"}} onClick={event =>  window.location.href='https://www.linkedin.com/in/samah-m-79a293195/'}/>
+          <div style = {{ display:"inline-block", width: "80%", textAlign: "center", padding: "10px 0", marginLeft: "-250px",}}>
+
+          <img src={image01} alt="Behance" style = {{height: "50px"}} onClick={event =>  window.location.href='https://www.behance.net/samahmustafa'}/>
+
+          <img src={image02} alt="LinkedIn" style = {{height: "50px"}} onClick={event =>  window.location.href='https://www.linkedin.com/in/samah-m-79a293195/'}/>
           </div>
       </div>
     )
